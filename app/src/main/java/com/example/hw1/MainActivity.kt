@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
 
         button.setOnClickListener {
-            // Show the TextView when the button is clicked
+
             textView.visibility = View.VISIBLE
         }
     }
